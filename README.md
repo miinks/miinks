@@ -1,6 +1,6 @@
-## Hi there 👋
 
-### Hi 👋 I'm Minks
+
+## Hi 👋 I'm Minks
 
 ## I'm a Unknown Developer (WIP)
 
