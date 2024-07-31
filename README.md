@@ -2,7 +2,7 @@
 
 ## Hi 👋 I'm Minks
 
-## I'm a Unknown Developer (WIP)
+## 
 
 - I'm currently 😬
 - Live in Houston Texas, learning new things every day. 🌍 💻
