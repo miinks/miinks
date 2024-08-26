@@ -4,7 +4,7 @@
 
 ## 
 
-- I'm currently learning!
+- Front End Developer
 - Live in Houston Texas. 🌍 💻
 
 Portfolio - WIP
