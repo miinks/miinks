@@ -7,7 +7,7 @@
 - Front End Developer
 - Live in Houston Texas. 🌍 💻
 
-Portfolio - WIP
+Portfolio - (https://miinks.netlify.app/)
 
 
 ### Connect with me:
