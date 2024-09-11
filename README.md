@@ -1,6 +1,6 @@
 
 
-## Hi 👋 I'm Minks
+## Hi I'm Minks
 
 ## 
 
